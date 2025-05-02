@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import { StyleSheet, Text, View, Image, TouchableOpacity, Alert, SafeAreaView, TextInput, Animated } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-
+//testing github
 const Stack = createNativeStackNavigator();
 
 // HomeScreen component
